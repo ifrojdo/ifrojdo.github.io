@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Ines Fröjdö and I am a second year linguistics major at the University of Helsinki. I am on the track towards studying Language Technology with the hopes of graduating into the Digital Humanities Master's programme.  
+<img src="assets/images/summer_picture.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Ines Fröjdö and I am a second year linguistics major at the University of Helsinki. I am on the track towards studying Language Technology with the hopes of graduating into the Digital Humanities Master's programme.  
 
 ## You can find me on
 
