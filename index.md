@@ -4,15 +4,15 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Ines Fröjdö and I am a second year linguistics major at the University of Helsinki. I am on the track towards studying Language Technology with the hopes of graduating into the Digital Humanities Master's programme.  
 
-## Find me on
+## You can find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[Instagram](https://www.instagram.com/inesfrojdo/), [GitHub](https://github.com/ifrojdo)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+You can email me at ines.frojdo@helsinki.fi.
 
 ## Courses I've Taken
 
