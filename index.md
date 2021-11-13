@@ -35,8 +35,13 @@ Morphology and Syntax, spring 2021
 
 [Introduction to Genreal Linguistics and Phonetics](https://studies.helsinki.fi/courses/cur/otm-8367cb12-093d-4003-9d5e-4296812e8f16), autumn 2020
 
-## Projects
+## My CV
+[You can find my current CV using this link](https://www.overleaf.com/read/fnxvxfhkrpgg)
 
-## Misc. 
+## You can find me on
+
+[Instagram](https://www.instagram.com/inesfrojdo/), [GitHub](https://github.com/ifrojdo)
+
+## Also, Here is a picture of my dog :) 
 
 [Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
