@@ -11,7 +11,7 @@ environment using command-line. This course is especially aimed at linguists as 
 
 
 | Week | Content | Important commands |
-| -----|:-------:|------------------: |
+| ----- |:-------: |------------------: |
 | Week 1 | Introduction | `Important commands` |
 | Week 2 | Navigation | `Important commands` |
 | Week 3 | Basic Corpus Processing | `Important commands` |
