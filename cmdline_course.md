@@ -71,6 +71,12 @@ We learned how to set up a repository, how to add files, commit them and to pull
 
 
 
-## A last word of advice:
-Do ask for help if you're stuck. There are students who are stuck with the same issue, and the techers are more than willing to help. Google and Stack overflow are also helpful (but be cautious), and sometiiiimes, even the error code provides you with helpful information. 
-![Joke about error messages](https://xkcd.com/2200)
+#### A last word of advice:
+If you're stuck on anything, here are some things you might want to do:
+1. (If you get an error code) read the error code and see if it points you in any possible directions.
+2. Google and Stack overflow are helpful tools to see if anyone else has encountered the same issue (but be cautious). 
+3. Ask you fellow students for advice: There are students who were/are stuck with the same problem. 
+4. and the techers are more than willing to help. 
+
+
+![Joke about error messages](https://imgs.xkcd.com/comics/unreachable_state.png)
