@@ -7,10 +7,8 @@ layout: default
 <img src="assets/images/picture.jpg" alt="Photo" hspace="20" width="30%" align="right"/> 
 My name is Ines Fröjdö and I am a second year linguistics major at the University of Helsinki. I am on the track towards studying Language Technology with the hopes of graduating into the Digital Humanities Master's programme. 
  
-I originally stem from Ostrobothnia, Finland but many of my childhood years were spent in a handful of European cities, which I wanna believe sparked my interest in languages. 
-## You can find me on
+I originally stem from Ostrobothnia, Finland but many of my childhood years were spent in a handful of European cities, which I wanna believe sparked my interest in languages. Other hobbies of mine are all types of handcarfting, such as crocheting and knitting. Whenever I'm not at home, you'll find me in the stables or walking the nearby forest with my dog. 
 
-[Instagram](https://www.instagram.com/inesfrojdo/), [GitHub](https://github.com/ifrojdo)
 
 ## Contact
 
@@ -35,8 +33,13 @@ Morphology and Syntax, spring 2021
 
 [Introduction to Genreal Linguistics and Phonetics](https://studies.helsinki.fi/courses/cur/otm-8367cb12-093d-4003-9d5e-4296812e8f16), autumn 2020
 
-## Projects
+## My CV
+[You can find my current CV using this link](https://www.overleaf.com/read/fnxvxfhkrpgg)
 
-## Misc. 
+## You can find me on
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[Instagram](https://www.instagram.com/inesfrojdo/), [GitHub](https://github.com/ifrojdo)
+
+## Also, here is a picture of my dog :) 
+
+![Pixie](./assets/images/pixie.jpg) 
